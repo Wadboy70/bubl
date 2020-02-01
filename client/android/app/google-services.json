@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414343414675",
+    "firebase_url": "https://bubl-f6bad.firebaseio.com",
+    "project_id": "bubl-f6bad",
+    "storage_bucket": "bubl-f6bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414343414675:android:ffaf2007236d72bdeede66",
+        "android_client_info": {
+          "package_name": "com.studioreach.bubl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414343414675-s9c00lp894pqq9k4quq82190leuro1l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR5ACi5ipE6TD3rCFp1UmfXlLgfenCWJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414343414675-s9c00lp894pqq9k4quq82190leuro1l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
